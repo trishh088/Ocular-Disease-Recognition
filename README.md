@@ -12,7 +12,7 @@ Cataract (C),\
 Age related Macular Degeneration (A),\
 Hypertension (H),\
 Pathological Myopia (M),\
-Other diseases/abnormalities (O)\
+Other diseases/abnormalities (O) 
 
 We used algorithms such as Convolutional Neural Networks and pretrained models - VGG16 and ResNet50 and tried to tune the parameters in the 6 ipynb that we have.\
 The results of the model's are shown below:
